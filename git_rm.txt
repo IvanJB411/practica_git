@@ -1,0 +1,1 @@
+"git rm --cached elimina solo del stage, mientras que git rm lo elimina tambi‚n f¡sicamente." 
